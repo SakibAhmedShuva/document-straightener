@@ -39,5 +39,6 @@ A Python script for straightening scanned document images using OpenCV. The scri
    pip install -r requirements.txt
 
 3. Run the script
+   
    ```bash
    straighten_document('input_filename.jpg', 'output_filename.jpg')
