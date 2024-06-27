@@ -29,7 +29,7 @@ A Python script for straightening scanned document images using OpenCV. The scri
 
 1. Clone the repository:
 
-   ```bash
+   ```sh
    git clone https://github.com/SakibAhmedShuva/tiny-document-straightener
    
 2. Open the folder
@@ -39,10 +39,10 @@ A Python script for straightening scanned document images using OpenCV. The scri
 
 2. Install the required packages:
 
-    ```bash
+    ```sh
     pip install -r requirements.txt
 
 3. Run the script
    
-    ```bash
+    ```sh
     straighten_document('input_filename.jpg', 'output_filename.jpg')
