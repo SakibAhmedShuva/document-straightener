@@ -46,3 +46,11 @@ A Python script for straightening scanned document images using OpenCV. The scri
    
     ```sh
     straighten_document('input_filename.jpg', 'output_filename.jpg')
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
